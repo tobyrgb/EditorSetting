@@ -1,0 +1,46 @@
+{
+    // Controls the font family.
+    "editor.fontFamily": "Source Code Pro for Powerline, Menlo, Monaco, 'Courier New', monospace",
+
+
+    // Characters that will be used as word separators when doing word related navigations or operations
+    "editor.wordSeparators": "`~!@#%^&*()-=+[{]}\\|;:'\",.<>/?",
+
+    "python.pythonPath": "/anaconda3",
+    "workbench.colorTheme": "One Dark Pro Vivid",
+    "workbench.iconTheme": "vscode-icons",
+
+    "todohighlight.keywords": [
+        {
+            "text": "DEBUG:",
+            "color": "#e6e6e6",
+            "backgroundColor": "#cc0000",
+            "overviewRulerColor": "grey"
+        },
+        {
+            "text": "NOTE:",
+            "color": "#262626",
+            "backgroundColor": "#ffad33",
+            "overviewRulerColor": "grey"
+        },
+        {
+            "text": "[Refactoring]",
+            "color": "#262626",
+            "backgroundColor": "#ff4dc4",
+            "isWholeLine": false,
+        },
+        {
+            "text": "[Obsolete]",
+            "color": "#262626",
+            "backgroundColor": "#ace600",
+            //other styling properties goes here ... 
+        },
+        {
+            "text": "[Useless]",
+            "color": "#e6e6e6",
+            "backgroundColor": "#0099e6",
+            //other styling properties goes here ... 
+        }
+    ],
+    
+}
